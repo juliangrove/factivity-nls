@@ -1,0 +1,941 @@
+"participant","predicate","predicate_number","response"
+1,"inform",12,0
+1,"confirm",4,0
+1,"be right",6,0
+1,"prove",2,0
+1,"admit",13,0.49
+1,"announce",10,0.47
+1,"discover",14,0.49
+1,"say",8,0
+1,"demonstrate",18,0
+1,"suggest",17,0
+1,"pretend",15,0
+1,"be annoyed",9,0.5
+1,"hear",16,0.01
+1,"know",11,0.48
+1,"acknowledge",5,0.49
+1,"see",19,0.49
+1,"reveal",3,0.5
+1,"establish",1,0.01
+1,"think",7,0
+1,"confess",20,0.51
+12,"discover",14,0.99
+12,"suggest",17,0.02
+12,"be annoyed",9,0.83
+12,"demonstrate",18,0.52
+12,"reveal",3,0.2
+12,"establish",1,0.02
+12,"acknowledge",5,0.22
+12,"hear",16,0.75
+12,"think",7,0.52
+12,"pretend",15,0.48
+12,"confess",20,0.73
+12,"be right",6,0.85
+12,"see",19,1
+12,"admit",13,0.49
+12,"prove",2,0.82
+12,"inform",12,1
+12,"say",8,0.47
+12,"announce",10,0
+12,"confirm",4,0
+12,"know",11,0.97
+23,"know",11,0.67
+23,"say",8,0.82
+23,"hear",16,0.89
+23,"suggest",17,0.51
+23,"see",19,0.81
+23,"confess",20,0.64
+23,"discover",14,0.39
+23,"be right",6,0.18
+23,"inform",12,0.68
+23,"pretend",15,0.62
+23,"reveal",3,0.53
+23,"acknowledge",5,0.67
+23,"think",7,0.39
+23,"establish",1,0.57
+23,"announce",10,0.59
+23,"admit",13,0.68
+23,"demonstrate",18,0.27
+23,"confirm",4,0.5
+23,"be annoyed",9,0.63
+23,"prove",2,0.41
+33,"announce",10,0.01
+33,"pretend",15,0.75
+33,"demonstrate",18,0.08
+33,"acknowledge",5,1
+33,"suggest",17,0.12
+33,"establish",1,0.28
+33,"reveal",3,0.11
+33,"inform",12,0.5
+33,"confess",20,0.3
+33,"hear",16,1
+33,"be annoyed",9,0.98
+33,"admit",13,0.38
+33,"be right",6,0.04
+33,"prove",2,0.24
+33,"say",8,0.13
+33,"see",19,0.17
+33,"confirm",4,0.19
+33,"discover",14,0.41
+33,"think",7,0.31
+33,"know",11,0.28
+43,"demonstrate",18,0.15
+43,"inform",12,0.14
+43,"hear",16,0.58
+43,"prove",2,0.17
+43,"see",19,0.77
+43,"think",7,0.25
+43,"be annoyed",9,0.86
+43,"announce",10,0.79
+43,"acknowledge",5,0.81
+43,"say",8,0.14
+43,"pretend",15,0.16
+43,"discover",14,0.24
+43,"confess",20,0.23
+43,"know",11,0.73
+43,"reveal",3,0.26
+43,"suggest",17,0.24
+43,"be right",6,0.26
+43,"confirm",4,0.21
+43,"establish",1,0.2
+43,"admit",13,0.19
+45,"be annoyed",9,1
+45,"be right",6,0.09
+45,"inform",12,0.79
+45,"announce",10,0.17
+45,"say",8,0.2
+45,"demonstrate",18,0.2
+45,"confess",20,0.78
+45,"know",11,0.79
+45,"think",7,0.91
+45,"reveal",3,0.79
+45,"confirm",4,0.22
+45,"establish",1,0.18
+45,"see",19,0
+45,"admit",13,0.11
+45,"hear",16,0.17
+45,"suggest",17,0.05
+45,"acknowledge",5,0.13
+45,"prove",2,0.1
+45,"discover",14,0.06
+45,"pretend",15,0.13
+46,"hear",16,1
+46,"pretend",15,0
+46,"be right",6,0.01
+46,"say",8,0.23
+46,"demonstrate",18,0.76
+46,"be annoyed",9,0.98
+46,"confess",20,0.5
+46,"acknowledge",5,0.74
+46,"reveal",3,0.68
+46,"see",19,0.51
+46,"establish",1,0.3
+46,"inform",12,0.99
+46,"discover",14,0.99
+46,"confirm",4,0.01
+46,"announce",10,1
+46,"prove",2,0.03
+46,"think",7,0.03
+46,"suggest",17,0.03
+46,"know",11,0.97
+46,"admit",13,0.02
+47,"confess",20,0.19
+47,"hear",16,0.85
+47,"establish",1,0.21
+47,"prove",2,0.25
+47,"see",19,0.67
+47,"acknowledge",5,0.97
+47,"confirm",4,0.33
+47,"demonstrate",18,0.36
+47,"inform",12,0.77
+47,"discover",14,0.76
+47,"know",11,0.93
+47,"announce",10,0.23
+47,"pretend",15,0.17
+47,"suggest",17,0.19
+47,"admit",13,0.78
+47,"reveal",3,0.25
+47,"think",7,0.2
+47,"be annoyed",9,0.97
+47,"be right",6,0.24
+47,"say",8,0.29
+2,"admit",13,0.78
+2,"see",19,0.68
+2,"know",11,0.58
+2,"say",8,0
+2,"acknowledge",5,0
+2,"confess",20,0.58
+2,"announce",10,0
+2,"inform",12,0.5
+2,"be right",6,0
+2,"demonstrate",18,0
+2,"establish",1,0
+2,"reveal",3,0.26
+2,"discover",14,0.81
+2,"prove",2,0
+2,"confirm",4,0
+2,"hear",16,0.31
+2,"suggest",17,0
+2,"be annoyed",9,1
+2,"think",7,0
+2,"pretend",15,0
+3,"establish",1,0.17
+3,"know",11,0.9
+3,"see",19,0.22
+3,"be annoyed",9,0.94
+3,"think",7,0.11
+3,"hear",16,0.87
+3,"admit",13,0.12
+3,"confirm",4,0.28
+3,"confess",20,0.7
+3,"say",8,0.15
+3,"acknowledge",5,0.23
+3,"suggest",17,0.06
+3,"announce",10,0.17
+3,"prove",2,0.04
+3,"be right",6,0.04
+3,"reveal",3,0.26
+3,"inform",12,0.79
+3,"pretend",15,0.05
+3,"demonstrate",18,0.04
+3,"discover",14,0.8
+4,"announce",10,0.16
+4,"reveal",3,0.13
+4,"hear",16,0.16
+4,"know",11,0.16
+4,"confess",20,0.19
+4,"say",8,0.22
+4,"establish",1,0.21
+4,"think",7,0.09
+4,"pretend",15,0.22
+4,"be right",6,0.48
+4,"prove",2,0.14
+4,"discover",14,0.29
+4,"acknowledge",5,0.47
+4,"confirm",4,0.23
+4,"see",19,0.72
+4,"admit",13,0.56
+4,"inform",12,0.88
+4,"demonstrate",18,0.34
+4,"be annoyed",9,0.58
+4,"suggest",17,0.45
+5,"admit",13,1
+5,"establish",1,0.14
+5,"confirm",4,0.32
+5,"be right",6,0
+5,"announce",10,0.26
+5,"demonstrate",18,0.38
+5,"know",11,1
+5,"hear",16,0.94
+5,"suggest",17,0.08
+5,"reveal",3,0.41
+5,"think",7,0.03
+5,"pretend",15,0
+5,"discover",14,0.8
+5,"see",19,0.96
+5,"prove",2,0.28
+5,"say",8,0.04
+5,"be annoyed",9,0.99
+5,"inform",12,0.91
+5,"confess",20,0.6
+5,"acknowledge",5,0.96
+6,"hear",16,1
+6,"prove",2,0.66
+6,"see",19,0.31
+6,"be annoyed",9,1
+6,"announce",10,0.29
+6,"reveal",3,0.35
+6,"think",7,0.12
+6,"demonstrate",18,0.35
+6,"confess",20,0.26
+6,"admit",13,0.26
+6,"pretend",15,0.11
+6,"be right",6,0.38
+6,"know",11,1
+6,"establish",1,0.35
+6,"confirm",4,0.32
+6,"inform",12,0.75
+6,"suggest",17,0.26
+6,"acknowledge",5,0.62
+6,"discover",14,0.41
+6,"say",8,0.31
+7,"confirm",4,0.05
+7,"be annoyed",9,0.62
+7,"acknowledge",5,0.63
+7,"reveal",3,0.8
+7,"hear",16,0.74
+7,"pretend",15,0.28
+7,"inform",12,0.77
+7,"think",7,0.44
+7,"discover",14,0.53
+7,"suggest",17,0.48
+7,"say",8,0.49
+7,"know",11,0.57
+7,"confess",20,0.53
+7,"establish",1,0.46
+7,"demonstrate",18,0.53
+7,"prove",2,0.48
+7,"be right",6,0.39
+7,"announce",10,0.51
+7,"admit",13,0.64
+7,"see",19,0.42
+8,"acknowledge",5,0.94
+8,"hear",16,0.63
+8,"suggest",17,0.07
+8,"pretend",15,0
+8,"confess",20,0.83
+8,"see",19,0.25
+8,"announce",10,0
+8,"reveal",3,0.15
+8,"admit",13,0.74
+8,"discover",14,0.94
+8,"inform",12,0.95
+8,"know",11,0.88
+8,"be annoyed",9,1
+8,"think",7,0
+8,"demonstrate",18,0.17
+8,"establish",1,0.07
+8,"prove",2,0.01
+8,"say",8,0
+8,"be right",6,0
+8,"confirm",4,0.05
+9,"prove",2,0.14
+9,"say",8,0.32
+9,"discover",14,0.85
+9,"think",7,0.15
+9,"confirm",4,0.18
+9,"be annoyed",9,0.94
+9,"admit",13,0.88
+9,"reveal",3,0.41
+9,"see",19,0.71
+9,"know",11,0.96
+9,"establish",1,0.8
+9,"suggest",17,0.17
+9,"hear",16,0.9
+9,"be right",6,0.92
+9,"announce",10,0.76
+9,"pretend",15,0.89
+9,"acknowledge",5,0.87
+9,"inform",12,0.93
+9,"confess",20,0.92
+9,"demonstrate",18,0.77
+10,"acknowledge",5,0.24
+10,"be right",6,0.1
+10,"know",11,0.13
+10,"demonstrate",18,0.15
+10,"reveal",3,0.57
+10,"inform",12,0.51
+10,"confirm",4,0.16
+10,"suggest",17,0.23
+10,"prove",2,0.16
+10,"say",8,0.14
+10,"hear",16,0.57
+10,"see",19,0.89
+10,"admit",13,0.46
+10,"establish",1,0.2
+10,"discover",14,0.51
+10,"think",7,0.21
+10,"announce",10,0.11
+10,"pretend",15,0.18
+10,"confess",20,0.15
+10,"be annoyed",9,0.86
+11,"confess",20,0.85
+11,"demonstrate",18,0.53
+11,"reveal",3,0.63
+11,"suggest",17,0.45
+11,"admit",13,0.79
+11,"establish",1,0.53
+11,"see",19,0.37
+11,"inform",12,0.72
+11,"discover",14,0.63
+11,"prove",2,0.33
+11,"confirm",4,0.44
+11,"acknowledge",5,0.69
+11,"think",7,0.51
+11,"be right",6,0.42
+11,"know",11,0.58
+11,"hear",16,0.68
+11,"pretend",15,0.03
+11,"announce",10,0.51
+11,"say",8,0.51
+11,"be annoyed",9,0.64
+13,"announce",10,0.98
+13,"be right",6,0
+13,"discover",14,0.92
+13,"prove",2,0.18
+13,"hear",16,0.92
+13,"reveal",3,1
+13,"inform",12,1
+13,"admit",13,0.76
+13,"be annoyed",9,1
+13,"establish",1,0
+13,"think",7,0
+13,"pretend",15,0
+13,"demonstrate",18,0.28
+13,"acknowledge",5,0.19
+13,"see",19,0.93
+13,"say",8,0.12
+13,"know",11,1
+13,"confirm",4,0.02
+13,"confess",20,0
+13,"suggest",17,0
+14,"establish",1,0.05
+14,"see",19,0.93
+14,"reveal",3,0.13
+14,"suggest",17,0.05
+14,"say",8,0.15
+14,"admit",13,0.65
+14,"discover",14,0.51
+14,"announce",10,0.67
+14,"demonstrate",18,0.28
+14,"confirm",4,0.4
+14,"be right",6,0.41
+14,"acknowledge",5,0.86
+14,"hear",16,0.78
+14,"inform",12,0.92
+14,"prove",2,0.08
+14,"know",11,0.99
+14,"think",7,0.42
+14,"pretend",15,0.37
+14,"be annoyed",9,0.94
+14,"confess",20,0.53
+15,"reveal",3,1
+15,"be right",6,0.37
+15,"announce",10,0.89
+15,"hear",16,0.94
+15,"say",8,0.49
+15,"think",7,0.39
+15,"pretend",15,0.14
+15,"admit",13,0.44
+15,"confess",20,0.78
+15,"discover",14,0.83
+15,"establish",1,0.46
+15,"demonstrate",18,0.64
+15,"suggest",17,0.26
+15,"see",19,0.31
+15,"know",11,1
+15,"prove",2,0.57
+15,"acknowledge",5,0.82
+15,"inform",12,1
+15,"be annoyed",9,1
+15,"confirm",4,0.5
+16,"hear",16,1
+16,"announce",10,0.66
+16,"confirm",4,0.08
+16,"pretend",15,0
+16,"establish",1,0.15
+16,"be right",6,0.19
+16,"know",11,0.91
+16,"confess",20,0.71
+16,"inform",12,0.95
+16,"acknowledge",5,1
+16,"suggest",17,0.05
+16,"be annoyed",9,0.98
+16,"say",8,0.4
+16,"think",7,0.16
+16,"prove",2,0.47
+16,"demonstrate",18,0.49
+16,"reveal",3,0.89
+16,"admit",13,0.92
+16,"discover",14,0.94
+16,"see",19,0.56
+17,"prove",2,0.51
+17,"inform",12,0.49
+17,"be right",6,0.28
+17,"acknowledge",5,0.51
+17,"say",8,0.29
+17,"reveal",3,0.49
+17,"confirm",4,0.64
+17,"establish",1,0.5
+17,"hear",16,0.88
+17,"think",7,0.49
+17,"demonstrate",18,0.49
+17,"know",11,0.94
+17,"admit",13,0.75
+17,"confess",20,0.69
+17,"discover",14,0.49
+17,"be annoyed",9,0.9
+17,"announce",10,0.64
+17,"suggest",17,0.48
+17,"pretend",15,0.06
+17,"see",19,0.49
+18,"confess",20,0.62
+18,"announce",10,0.74
+18,"think",7,0.32
+18,"know",11,0.89
+18,"say",8,0.52
+18,"inform",12,0.73
+18,"see",19,0.81
+18,"pretend",15,0
+18,"acknowledge",5,0.88
+18,"hear",16,0.86
+18,"prove",2,0.2
+18,"discover",14,0.91
+18,"suggest",17,0.12
+18,"be annoyed",9,0.94
+18,"establish",1,0
+18,"confirm",4,0
+18,"reveal",3,0
+18,"admit",13,0.36
+18,"demonstrate",18,0.24
+18,"be right",6,0
+19,"suggest",17,0.14
+19,"confess",20,0.86
+19,"demonstrate",18,0.49
+19,"establish",1,0.61
+19,"see",19,0.91
+19,"be annoyed",9,1
+19,"announce",10,0.5
+19,"hear",16,0.83
+19,"know",11,0.94
+19,"be right",6,0.5
+19,"inform",12,0.89
+19,"discover",14,0.71
+19,"prove",2,0.36
+19,"pretend",15,0.22
+19,"reveal",3,0.69
+19,"acknowledge",5,0.31
+19,"confirm",4,0.3
+19,"admit",13,0.74
+19,"say",8,0.22
+19,"think",7,0.24
+20,"know",11,0.34
+20,"be annoyed",9,1
+20,"suggest",17,0.6
+20,"prove",2,0.28
+20,"inform",12,0.86
+20,"reveal",3,0.83
+20,"acknowledge",5,0.84
+20,"see",19,0.8
+20,"discover",14,0.81
+20,"hear",16,0.76
+20,"demonstrate",18,0.58
+20,"establish",1,0.65
+20,"confess",20,0.75
+20,"say",8,0.65
+20,"think",7,0.37
+20,"be right",6,0.24
+20,"confirm",4,0.39
+20,"pretend",15,0.16
+20,"admit",13,0.37
+20,"announce",10,0.4
+21,"know",11,0.93
+21,"say",8,0.09
+21,"admit",13,0.96
+21,"acknowledge",5,0.99
+21,"demonstrate",18,0.87
+21,"announce",10,0.15
+21,"think",7,0.96
+21,"suggest",17,0.03
+21,"prove",2,0.58
+21,"establish",1,0.11
+21,"discover",14,0.83
+21,"pretend",15,0.89
+21,"see",19,0.9
+21,"reveal",3,0.15
+21,"confirm",4,0.34
+21,"confess",20,0.68
+21,"inform",12,0.92
+21,"be right",6,0.07
+21,"hear",16,0.84
+21,"be annoyed",9,0.97
+22,"suggest",17,0.3
+22,"establish",1,0.52
+22,"inform",12,0.91
+22,"announce",10,0.84
+22,"see",19,0.87
+22,"prove",2,0.23
+22,"hear",16,0.78
+22,"say",8,0.09
+22,"know",11,0.97
+22,"admit",13,0.93
+22,"confirm",4,0.2
+22,"demonstrate",18,0.39
+22,"reveal",3,0.11
+22,"pretend",15,0.03
+22,"be right",6,0.48
+22,"acknowledge",5,0.06
+22,"think",7,0.12
+22,"confess",20,0.37
+22,"discover",14,0.83
+22,"be annoyed",9,0.96
+24,"be right",6,0.25
+24,"reveal",3,0.72
+24,"acknowledge",5,0.99
+24,"think",7,0.2
+24,"demonstrate",18,0.9
+24,"admit",13,0.92
+24,"say",8,0.07
+24,"establish",1,0.69
+24,"pretend",15,0.1
+24,"prove",2,0.11
+24,"announce",10,0.13
+24,"confess",20,0.96
+24,"hear",16,0.95
+24,"be annoyed",9,1
+24,"see",19,0.72
+24,"discover",14,0.28
+24,"suggest",17,0.01
+24,"know",11,0.93
+24,"inform",12,0.97
+24,"confirm",4,0.03
+25,"inform",12,0.95
+25,"see",19,0.96
+25,"pretend",15,0.09
+25,"prove",2,0.88
+25,"confirm",4,0.02
+25,"hear",16,0.51
+25,"announce",10,0.16
+25,"know",11,0.8
+25,"say",8,0.01
+25,"establish",1,0.05
+25,"suggest",17,0
+25,"think",7,0.18
+25,"be annoyed",9,0.81
+25,"admit",13,0.23
+25,"confess",20,0.1
+25,"acknowledge",5,0.08
+25,"reveal",3,0.08
+25,"discover",14,0.63
+25,"be right",6,0
+25,"demonstrate",18,0.06
+26,"think",7,0.07
+26,"admit",13,0.58
+26,"confess",20,0.6
+26,"confirm",4,0.78
+26,"be right",6,0.4
+26,"announce",10,0.38
+26,"prove",2,0.65
+26,"pretend",15,0.09
+26,"discover",14,0.52
+26,"reveal",3,0.75
+26,"acknowledge",5,0.87
+26,"see",19,0.7
+26,"hear",16,0.63
+26,"establish",1,0.48
+26,"demonstrate",18,0.24
+26,"be annoyed",9,0.79
+26,"know",11,0.75
+26,"say",8,0.33
+26,"suggest",17,0.19
+26,"inform",12,0.82
+27,"demonstrate",18,0.89
+27,"be right",6,0.02
+27,"announce",10,0.64
+27,"reveal",3,0.94
+27,"acknowledge",5,0.85
+27,"be annoyed",9,0.98
+27,"inform",12,0.96
+27,"discover",14,1
+27,"suggest",17,0.42
+27,"confirm",4,0.71
+27,"see",19,0.96
+27,"know",11,0.99
+27,"say",8,0.49
+27,"pretend",15,0.06
+27,"confess",20,0.93
+27,"prove",2,0.25
+27,"think",7,0.15
+27,"establish",1,0.39
+27,"admit",13,0.95
+27,"hear",16,0.99
+28,"prove",2,0.62
+28,"reveal",3,0.1
+28,"pretend",15,0.08
+28,"think",7,0.06
+28,"establish",1,0.06
+28,"say",8,0.07
+28,"see",19,0.72
+28,"admit",13,0.77
+28,"inform",12,0.81
+28,"suggest",17,0.44
+28,"be annoyed",9,0.89
+28,"be right",6,0.31
+28,"hear",16,0.68
+28,"demonstrate",18,0.59
+28,"acknowledge",5,0.79
+28,"know",11,0.89
+28,"confirm",4,0.47
+28,"discover",14,0.7
+28,"announce",10,0.81
+28,"confess",20,0.88
+29,"discover",14,0.86
+29,"suggest",17,0.31
+29,"confess",20,0.54
+29,"inform",12,0.62
+29,"announce",10,0.5
+29,"confirm",4,0.49
+29,"know",11,0.96
+29,"be annoyed",9,0.98
+29,"reveal",3,0.57
+29,"say",8,0.57
+29,"demonstrate",18,0.51
+29,"hear",16,0.95
+29,"see",19,0.96
+29,"admit",13,0.99
+29,"acknowledge",5,0.58
+29,"think",7,0.53
+29,"establish",1,0.52
+29,"prove",2,0.52
+29,"pretend",15,0.53
+29,"be right",6,0.51
+30,"suggest",17,0.07
+30,"be right",6,0.25
+30,"confess",20,0.62
+30,"establish",1,0.85
+30,"demonstrate",18,0.66
+30,"acknowledge",5,0.86
+30,"see",19,0.25
+30,"hear",16,0.21
+30,"discover",14,0.61
+30,"inform",12,0.42
+30,"prove",2,0.2
+30,"pretend",15,0
+30,"know",11,0.83
+30,"reveal",3,1
+30,"admit",13,0.7
+30,"say",8,0.15
+30,"announce",10,0.62
+30,"think",7,0.1
+30,"be annoyed",9,1
+30,"confirm",4,0.28
+31,"confess",20,0.81
+31,"say",8,0.23
+31,"announce",10,1
+31,"discover",14,1
+31,"hear",16,0.51
+31,"prove",2,0.52
+31,"pretend",15,1
+31,"think",7,0.51
+31,"inform",12,1
+31,"confirm",4,0.51
+31,"establish",1,0.53
+31,"see",19,0.79
+31,"admit",13,0.77
+31,"demonstrate",18,0.51
+31,"acknowledge",5,1
+31,"reveal",3,0.74
+31,"know",11,1
+31,"be annoyed",9,1
+31,"suggest",17,0
+31,"be right",6,0.24
+32,"pretend",15,0.05
+32,"think",7,0.19
+32,"hear",16,0.11
+32,"admit",13,0.65
+32,"discover",14,0.94
+32,"acknowledge",5,0.96
+32,"demonstrate",18,0.75
+32,"establish",1,0.81
+32,"see",19,0.99
+32,"confirm",4,0.18
+32,"be right",6,0.29
+32,"suggest",17,0.15
+32,"know",11,0.98
+32,"say",8,0.13
+32,"prove",2,0.29
+32,"confess",20,0.61
+32,"announce",10,0.34
+32,"reveal",3,0.56
+32,"be annoyed",9,0.97
+32,"inform",12,0.96
+34,"prove",2,0.03
+34,"pretend",15,0.49
+34,"hear",16,0.9
+34,"reveal",3,0.98
+34,"inform",12,0.98
+34,"demonstrate",18,0.15
+34,"announce",10,0.14
+34,"establish",1,0.04
+34,"admit",13,0.24
+34,"know",11,0.92
+34,"confess",20,0.37
+34,"confirm",4,0.43
+34,"acknowledge",5,0.63
+34,"be right",6,0.12
+34,"think",7,0.06
+34,"see",19,0.35
+34,"suggest",17,0.18
+34,"be annoyed",9,0.97
+34,"say",8,0.22
+34,"discover",14,0.3
+35,"inform",12,0.05
+35,"confirm",4,0.17
+35,"see",19,0.9
+35,"reveal",3,0.9
+35,"confess",20,0.21
+35,"be right",6,0.07
+35,"be annoyed",9,0.91
+35,"say",8,0.07
+35,"think",7,0.78
+35,"establish",1,0.19
+35,"acknowledge",5,0.83
+35,"hear",16,0.7
+35,"admit",13,0.6
+35,"demonstrate",18,0.24
+35,"discover",14,0.8
+35,"pretend",15,0.57
+35,"know",11,0.86
+35,"prove",2,0.12
+35,"announce",10,0.12
+35,"suggest",17,0.27
+36,"suggest",17,0.13
+36,"hear",16,0.67
+36,"be annoyed",9,0.9
+36,"discover",14,0.27
+36,"pretend",15,0.1
+36,"know",11,0.85
+36,"demonstrate",18,0.48
+36,"be right",6,0.08
+36,"establish",1,0.11
+36,"acknowledge",5,0.82
+36,"see",19,0.38
+36,"say",8,0.18
+36,"reveal",3,0.79
+36,"admit",13,0.85
+36,"think",7,0.14
+36,"confess",20,0.35
+36,"inform",12,0.83
+36,"announce",10,0.83
+36,"prove",2,0.29
+36,"confirm",4,0.35
+37,"pretend",15,0.1
+37,"be right",6,0.04
+37,"think",7,0.17
+37,"discover",14,0.99
+37,"establish",1,0.98
+37,"inform",12,0.7
+37,"demonstrate",18,0.71
+37,"know",11,0.09
+37,"reveal",3,0.84
+37,"suggest",17,0.29
+37,"prove",2,0.66
+37,"announce",10,0.8
+37,"confess",20,0.96
+37,"hear",16,0.2
+37,"be annoyed",9,0.67
+37,"acknowledge",5,0.56
+37,"confirm",4,0.76
+37,"see",19,0.39
+37,"say",8,0.03
+37,"admit",13,0.71
+38,"establish",1,0.32
+38,"think",7,0.27
+38,"confirm",4,0.06
+38,"discover",14,0.04
+38,"hear",16,0.94
+38,"suggest",17,0.43
+38,"announce",10,0.83
+38,"know",11,0.99
+38,"acknowledge",5,0.6
+38,"admit",13,1
+38,"pretend",15,0.15
+38,"prove",2,0.16
+38,"reveal",3,0.83
+38,"see",19,0.88
+38,"be right",6,0.03
+38,"say",8,0.16
+38,"confess",20,0.57
+38,"inform",12,1
+38,"be annoyed",9,1
+38,"demonstrate",18,0.29
+39,"confess",20,0.5
+39,"know",11,0.76
+39,"confirm",4,0
+39,"admit",13,0
+39,"inform",12,0.51
+39,"pretend",15,0.53
+39,"say",8,0
+39,"announce",10,0
+39,"see",19,0.08
+39,"acknowledge",5,0.5
+39,"suggest",17,0.03
+39,"hear",16,0.5
+39,"be annoyed",9,0.8
+39,"discover",14,0
+39,"reveal",3,0.48
+39,"think",7,0
+39,"prove",2,0
+39,"establish",1,0.19
+39,"be right",6,0
+39,"demonstrate",18,0.18
+40,"announce",10,0.96
+40,"establish",1,0.06
+40,"demonstrate",18,0.14
+40,"confirm",4,0.14
+40,"reveal",3,0.88
+40,"say",8,0.06
+40,"pretend",15,0.13
+40,"be right",6,0.01
+40,"see",19,0.18
+40,"admit",13,0.52
+40,"inform",12,0.99
+40,"be annoyed",9,0.97
+40,"confess",20,0.51
+40,"know",11,0.8
+40,"suggest",17,0.11
+40,"discover",14,0.69
+40,"hear",16,0.62
+40,"prove",2,0.03
+40,"acknowledge",5,0.28
+40,"think",7,0.02
+41,"reveal",3,0.08
+41,"discover",14,0.1
+41,"pretend",15,0.09
+41,"say",8,0.1
+41,"establish",1,0.07
+41,"hear",16,0.11
+41,"prove",2,0.06
+41,"demonstrate",18,0.05
+41,"admit",13,0.05
+41,"be annoyed",9,0.23
+41,"see",19,0.07
+41,"acknowledge",5,0.06
+41,"know",11,0.86
+41,"be right",6,0.11
+41,"confirm",4,0.17
+41,"announce",10,0.12
+41,"suggest",17,0.1
+41,"inform",12,0.33
+41,"confess",20,0.12
+41,"think",7,0.08
+42,"hear",16,0.14
+42,"establish",1,0.18
+42,"know",11,0.55
+42,"admit",13,0.76
+42,"pretend",15,0.69
+42,"think",7,0.05
+42,"suggest",17,0.08
+42,"demonstrate",18,0.28
+42,"be annoyed",9,0.77
+42,"prove",2,0.3
+42,"reveal",3,0.16
+42,"announce",10,0.26
+42,"say",8,0.17
+42,"inform",12,0.24
+42,"acknowledge",5,0.1
+42,"confess",20,0.09
+42,"confirm",4,0.12
+42,"be right",6,0.58
+42,"discover",14,0.59
+42,"see",19,0.77
+44,"see",19,0.91
+44,"demonstrate",18,0.81
+44,"say",8,0.6
+44,"pretend",15,0.74
+44,"inform",12,0.54
+44,"prove",2,0.84
+44,"confess",20,0.79
+44,"admit",13,0.61
+44,"know",11,0.73
+44,"acknowledge",5,0.75
+44,"be right",6,0.83
+44,"reveal",3,0.81
+44,"announce",10,0.52
+44,"establish",1,0.51
+44,"be annoyed",9,0.26
+44,"discover",14,0.82
+44,"suggest",17,0.73
+44,"confirm",4,0.68
+44,"hear",16,0.7
+44,"think",7,0.79
