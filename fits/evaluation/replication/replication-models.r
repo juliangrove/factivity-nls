@@ -27,8 +27,7 @@ context <- replication$context_number;
 participant <- replication$participant;
 y <- replication$response;
 
-## model_names <- c("discrete-factivity","wholly-gradient","discrete-world","wholly-discrete");
-model_names <- c("discrete-world","wholly-discrete");
+model_names <- c("discrete-factivity","wholly-gradient","discrete-world","wholly-discrete");
 
 for (n in model_names) {
     mu_nu <- readRDS(paste0(factivity_dir,n,"_mu_nu.rds"));
