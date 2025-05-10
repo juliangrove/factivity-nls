@@ -141,7 +141,7 @@ model {
 generated quantities {
   vector[N_data] ll; // log-likelihoods (needed for WAIC/PSIS calculations)
   
-  // definition:
+  // Definition:
   for (i in 1:N_data) {
     if (y[i] >= 0 && y[i] <= 1)
       ll[i] = likelihood_lpdf(
